@@ -66,5 +66,6 @@ SMS Gateway Integration (Zain, Jawaly, Yamamah, Msegat, Oursms, Unifonic, smsmis
 ---
 
 ## 📊 GitHub Stats
+![Packagist Downloads](https://img.shields.io/packagist/dt/vendor/arafadev/payment-gateways?style=for-the-badge)
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=arafadev&show_icons=true&theme=radical&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafadev&layout=compact&theme=radical)
