@@ -66,5 +66,5 @@ SMS Gateway Integration (Zain, Jawaly, Yamamah, Msegat, Oursms, Unifonic, smsmis
 ---
 
 ## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=arafa-dev&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafa-dev&layout=compact&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=arafadev&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafadev&layout=compact&theme=radical)
