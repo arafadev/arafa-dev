@@ -36,16 +36,22 @@ Database Design
 CI/CD, Git, GitHub, GitLab, Postman
 
 ### 🔹 Payment Integration
-![Alrajhi Bank](https://img.shields.io/badge/AlrajhiBank-blue?style=for-the-badge)  
-![Paymob](https://img.shields.io/badge/Paymob-blue?style=for-the-badge)  
-![Hyperpay](https://img.shields.io/badge/Hyperpay-blue?style=for-the-badge)  
-![MyFatoorah](https://img.shields.io/badge/MyFatoorah-blue?style=for-the-badge)  
-![Geidea](https://img.shields.io/badge/Geidea-blue?style=for-the-badge)  
-![Tap](https://img.shields.io/badge/Tap-blue?style=for-the-badge)  
-![Moyasar](https://img.shields.io/badge/Moyasar-blue?style=for-the-badge)  
-![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)  
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)  
+![Alrajhi Bank](https://img.shields.io/badge/AlrajhiBank-blue?style=for-the-badge)
+![Paymob](https://img.shields.io/badge/Paymob-blue?style=for-the-badge)
+![Hyperpay](https://img.shields.io/badge/Hyperpay-blue?style=for-the-badge)
+![MyFatoorah](https://img.shields.io/badge/MyFatoorah-blue?style=for-the-badge)
+![Geidea](https://img.shields.io/badge/Geidea-blue?style=for-the-badge)
+![Tap](https://img.shields.io/badge/Tap-blue?style=for-the-badge)
+![Moyasar](https://img.shields.io/badge/Moyasar-blue?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-FF2E2E?style=for-the-badge)
+![Fawry](https://img.shields.io/badge/Fawry-blue?style=for-the-badge)
+![Tabby](https://img.shields.io/badge/Tabby-blue?style=for-the-badge)
+![ClickPay](https://img.shields.io/badge/ClickPay-blue?style=for-the-badge)
+![Telr](https://img.shields.io/badge/Telr-blue?style=for-the-badge)
+![Urway](https://img.shields.io/badge/Urway-blue?style=for-the-badge)
+![Tamara](https://img.shields.io/badge/Tamara-blue?style=for-the-badge)
 
 ### 🔹 Real-Time
 Laravel WebSockets, Pusher, Broadcasting, Laravel Echo
