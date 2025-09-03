@@ -53,6 +53,8 @@ CI/CD, Git, GitHub, GitLab, Postman
 ![Urway](https://img.shields.io/badge/Urway-blue?style=for-the-badge)
 ![Tamara](https://img.shields.io/badge/Tamara-blue?style=for-the-badge)
 
+➡️ **Capable of integrating any additional payment gateway required by the client if needed.**
+
 ### 🔹 Real-Time
 Laravel WebSockets, Pusher, Broadcasting, Laravel Echo
 
